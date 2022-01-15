@@ -1,0 +1,210 @@
+# depslib dependency file v1.0
+1610527218 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/main.c
+	"raylib.h"
+	"chipmunk.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/chipmunk.c
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	"chipmunk_private.h"
+	"chipmunk_ffi.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/chipmunk_private.h
+	"chipmunk.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/chipmunk.h
+	<stdlib.h>
+	<math.h>
+	"chipmunk_types.h"
+	"cpVect.h"
+	"cpBB.h"
+	"cpSpatialIndex.h"
+	"cpBody.h"
+	"cpShape.h"
+	"cpPolyShape.h"
+	"cpArbiter.h"
+	"constraints/cpConstraint.h"
+	"cpSpace.h"
+	"malloc.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/chipmunk_types.h
+	<stdint.h>
+	<float.h>
+	"TargetConditionals.h"
+	<ApplicationServices/ApplicationServices.h>
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/cpVect.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/cpBB.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/cpSpatialIndex.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/cpBody.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/cpShape.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/cpPolyShape.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/cpArbiter.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/constraints/cpConstraint.h
+	"cpPinJoint.h"
+	"cpSlideJoint.h"
+	"cpPivotJoint.h"
+	"cpGrooveJoint.h"
+	"cpDampedSpring.h"
+	"cpDampedRotarySpring.h"
+	"cpRotaryLimitJoint.h"
+	"cpRatchetJoint.h"
+	"cpGearJoint.h"
+	"cpSimpleMotor.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/constraints/cpPinJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/constraints/cpSlideJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/constraints/cpPivotJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/constraints/cpGrooveJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/constraints/cpDampedSpring.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/constraints/cpDampedRotarySpring.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/constraints/cpRotaryLimitJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/constraints/cpRatchetJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/constraints/cpGearJoint.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/constraints/cpSimpleMotor.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/cpSpace.h
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/chipmunk_ffi.h
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/constraints/cpConstraint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/constraints/util.h
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/constraints/cpDampedRotarySpring.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/constraints/cpDampedSpring.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/constraints/cpGearJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/constraints/cpGrooveJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/constraints/cpPinJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/constraints/cpPivotJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/constraints/cpRatchetJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/constraints/cpRotaryLimitJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/constraints/cpSimpleMotor.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/constraints/cpSlideJoint.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpArbiter.c
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpArray.c
+	<string.h>
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpBB.c
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpBBTree.c
+	"stdlib.h"
+	"stdio.h"
+	"chipmunk_private.h"
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpBody.c
+	<float.h>
+	"chipmunk_private.h"
+	"constraints/util.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpCollision.c
+	<stdio.h>
+	<string.h>
+	"chipmunk_private.h"
+	"ChipmunkDemo.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpHashSet.c
+	"chipmunk_private.h"
+	"prime.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/prime.h
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpPolyShape.c
+	"chipmunk_private.h"
+	"chipmunk_unsafe.h"
+
+1381889784 /media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/include/chipmunk/chipmunk_unsafe.h
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpShape.c
+	"chipmunk_private.h"
+	"chipmunk_unsafe.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpSpace.c
+	<stdio.h>
+	<string.h>
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpSpaceComponent.c
+	<string.h>
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpSpaceHash.c
+	"chipmunk_private.h"
+	"prime.h"
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpSpaceQuery.c
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpSpaceStep.c
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpSpatialIndex.c
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpSweep1D.c
+	"chipmunk_private.h"
+
+1381889784 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raychipmunk/src/cpVect.c
+	<stdio.h>
+	"chipmunk_private.h"
+
